@@ -8,14 +8,10 @@ All the code for this project is in **`Waste sorter.ipynb`**.
 
 The notebook is too big to render on Github, which is why we have to use Jupyter Notebook Viewer to render it. Start with option (a) and if the link doesn't work, use option (b).
 
-### Option (a) 
 
-- Click [here](https://nbviewer.jupyter.org/github/collindching/Waste-Sorter/blob/master/Waste%20sorter.ipynb)
+### Option
 
-### Option (b)
-
-1. Copy the link to the notebook on Github (https://github.com/collindching/Waste-Sorter/blob/master/Waste%20sorter.ipynb)
-2. Follow this link [here](https://nbviewer.jupyter.org/) and paste the notebook URL to view the notebook
+1. Copy the link to the notebook on Github 
 
 ## How to run this notebook
 
